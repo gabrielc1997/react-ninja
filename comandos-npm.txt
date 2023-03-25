@@ -1,0 +1,8 @@
+//iniciar com js basico para react
+npm create vite@latest
+
+// na pasta criada 
+npm i 
+
+// rodar a aplicacao 
+npm run dev
